@@ -1,3 +1,3 @@
  Apps / Frameworks
 
-🧑🏻‍💻 Swift, Backend / Frontend, Apps, De-Fi, Machine learning, AR
+🧑🏻‍💻 Swift, Backend / Frontend, Apps, De-Fi, Machine learning, AR, CI/CD
