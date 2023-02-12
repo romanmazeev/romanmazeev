@@ -1,1 +1,1 @@
-Making amazing software for  platforms
+ and [swift](https://www.swift.org) fan
