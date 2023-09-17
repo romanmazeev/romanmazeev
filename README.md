@@ -1,1 +1,1 @@
-, Open source development and [Swift programming language](https://www.swift.org) fan
+I prefer Swift and  related technologies. ❤️ Open Source
